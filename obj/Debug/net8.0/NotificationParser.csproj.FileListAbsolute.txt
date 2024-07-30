@@ -1,0 +1,14 @@
+/Users/phatmenghor/NotificationParser/bin/Debug/net8.0/NotificationParser
+/Users/phatmenghor/NotificationParser/bin/Debug/net8.0/NotificationParser.deps.json
+/Users/phatmenghor/NotificationParser/bin/Debug/net8.0/NotificationParser.runtimeconfig.json
+/Users/phatmenghor/NotificationParser/bin/Debug/net8.0/NotificationParser.dll
+/Users/phatmenghor/NotificationParser/bin/Debug/net8.0/NotificationParser.pdb
+/Users/phatmenghor/NotificationParser/obj/Debug/net8.0/NotificationParser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/phatmenghor/NotificationParser/obj/Debug/net8.0/NotificationParser.AssemblyInfoInputs.cache
+/Users/phatmenghor/NotificationParser/obj/Debug/net8.0/NotificationParser.AssemblyInfo.cs
+/Users/phatmenghor/NotificationParser/obj/Debug/net8.0/NotificationParser.csproj.CoreCompileInputs.cache
+/Users/phatmenghor/NotificationParser/obj/Debug/net8.0/NotificationParser.dll
+/Users/phatmenghor/NotificationParser/obj/Debug/net8.0/refint/NotificationParser.dll
+/Users/phatmenghor/NotificationParser/obj/Debug/net8.0/NotificationParser.pdb
+/Users/phatmenghor/NotificationParser/obj/Debug/net8.0/NotificationParser.genruntimeconfig.cache
+/Users/phatmenghor/NotificationParser/obj/Debug/net8.0/ref/NotificationParser.dll
